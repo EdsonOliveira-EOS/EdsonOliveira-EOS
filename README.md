@@ -31,7 +31,7 @@
 
 ▶ **[Digital Circuits](https://github.com/EdsonOliveira-EOS/Projeto-SD)**
 
-▶ **[Some other projects](https://github.com/EdsonOliveira-EOS/ProjetosCIN)**
+▶ **[Main CIn Projects](https://github.com/EdsonOliveira-EOS/ProjetosCIN)**
 
 > Em breve mais projetos por aqui... 🚧
 
