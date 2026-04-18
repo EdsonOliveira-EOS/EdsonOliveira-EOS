@@ -11,9 +11,10 @@
 - 🌱 I'm currently learning **Calculus, Programming, Circuits and Algorithms**
 - 💬 Ask me about **Games and Programming.**
 - 📫 How to reach me: oliveiraedson.silva2007@hotmail.com
-- 🌐 Languages i know: Brazilian Portuguese - English
+- 🌐 Languages i know: Brazilian Portuguese | English
 - 🖋 Currently pursuing a degree in Computer Engineering at UFPE!
 - 🌐 I'm currently a Teaching Assistant for Introduction to Programming at the Center for Informatics (CIn) at UFPE!
+- 📖 I love Jesus and i believe he is king! I am a Christian by heart.
 
 ### 💻 Languages and Tools:
 
