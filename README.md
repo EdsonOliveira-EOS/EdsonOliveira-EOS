@@ -13,7 +13,6 @@
 - 📫 How to reach me: oliveiraedson.silva2007@gmail.com
 - 🌐 Languages i know: Brazilian Portuguese | English
 - 🖋 Currently pursuing a degree in Computer Engineering at UFPE!
-- 🌐 I'm currently a Teaching Assistant for Introduction to Programming at the Center for Informatics (CIn) at UFPE!
 - 📖 I love Jesus and i believe he is king! I am a Christian by heart.
 
 ### 💻 Languages and Tools:
