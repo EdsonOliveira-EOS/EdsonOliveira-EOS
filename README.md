@@ -7,9 +7,9 @@
 ### 🧑‍💻 Brief Introduction
 
 - Hello, i am Edson Oliveira da Silva! Or globally known as Phaidros.
-- 🔨 I'm currently working on learning "JavaScript'' and "Java" to expand my knowledge in programming.
-- 🌱 I'm currently learning **Calculus, Programming, Circuits and Algorithms**
-- 💬 Ask me about **Games and Programming.**
+- 🔨 I'm currently working on learning ESP32-S3.
+- 🌱 I'm currently learning (At College) **Calculus, Physics, Architecture and Organization of Computers and Algorithms.**
+- 💬 Ask me about **Games and Embedded Systems.**
 - 📫 How to reach me: oliveiraedson.silva2007@gmail.com
 - 🌐 Languages i know: Brazilian Portuguese | English
 - 🖋 Currently pursuing a degree in Computer Engineering at UFPE!
