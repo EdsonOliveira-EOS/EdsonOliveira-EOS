@@ -14,6 +14,7 @@
 - 🌐 Languages i know: Brazilian Portuguese | English
 - 🖋 Currently pursuing a degree in Computer Engineering at UFPE!
 - 📖 I love Jesus and i believe he is king! I am a Christian by heart.
+- 🎓 Lattes CV: [lattes.cnpq.br/4739092735516232](http://lattes.cnpq.br/4739092735516232)
 
 ### 💻 Languages and Tools:
 
